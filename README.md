@@ -1,131 +1,74 @@
-# 👨🏻‍💻 Guilherme
+#  👨🏻‍💻 Sobre Mim:
+Olá! Me chamo Guilherme Mourão, sou estudante de Sistemas de Informação na FAMETRO e participante da Web Academy UFAM. Tenho interesse em desenvolvimento web full stack, desenvolvimento de interfaces modernas, versionamento com Git/GitHub, Linux e tecnologias voltadas para Inteligência Artificial.<br><br>
 
-**`Estudante de Sistemas de Informação | Desenvolvedor Web Full Stack em formação`**
+Atualmente, estou aprimorando minhas habilidades em HTML, CSS, JavaScript, Bootstrap, Node.js e React, buscando evoluir constantemente através de projetos, cursos e experiências práticas na área de tecnologia.<br><br>
 
-Me chamo Guilherme, sou de Manaus-AM e atualmente curso Sistemas de Informação na FAMETRO.  
-Participo da Web Academy UFAM, onde venho desenvolvendo habilidades em desenvolvimento web full stack.
-
-Tenho experiência com suporte técnico, Linux, Git/GitHub e desenvolvimento web utilizando HTML, CSS, JavaScript e Node.js. Atualmente estou aprofundando meus conhecimentos em React, APIs REST, Banco de Dados e Inteligência Artificial.
+Também possuo experiência com suporte técnico em TI, manutenção de computadores, sistemas operacionais Linux/Windows e ferramentas de produtividade e desenvolvimento. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente na área de tecnologia.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML5 logo icon representing web page structure language"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS3 logo icon representing webpage styling language"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript logo icon representing web programming language for interactive pages"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap logo icon representing responsive frontend development framework"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="NodeJS logo icon representing server side JavaScript runtime environment"
-    title="NodeJS" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git logo icon representing distributed version control system"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub logo icon representing code hosting and collaboration platform"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Linux logo icon representing open source operating system"
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python logo icon representing programming language for automation and development"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+## 🚀 Objetivos:
+- Evoluir como Desenvolvedor Web Full Stack
+- Aprimorar conhecimentos em Tecnologia
+- Aprender mais sobre Cloud Computing e Inteligência Artificial
+- Contribuir em projetos open source
+- Desenvolver soluções criativas e escaláveis
 
 ---
 
-### 📚 Atualmente estudando
-- DOM (Document Object Model)
-- Bootstrap
-- React
-- APIs REST
-- Banco de Dados
-- Docker
-- Inteligência Artificial
+## 🌐 Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-mourão-587358242)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/guilherme197754)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guidm19)
 
 ---
 
-### 📂 Projetos
-- 📌 Exercícios da Web Academy UFAM
-- 📌 Lista de Tarefas com JavaScript
-- 📌 Galeria de Imagens DOM
-- 📌 Projetos HTML/CSS Responsivos
-- 📌 Estudos com Node.js
+# 💻 Tecnologias & Ferramentas:
+
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### ⚙️ Back-end & Banco de Dados
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🛠️ Ferramentas & Sistemas
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guidm19&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidm19&theme=tokyonight&layout=compact)
+# 📚 Atualmente Estudando:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-### 🌐 Contato
+# 📊 Estatísticas GitHub:
+![](https://github-readme-stats.shion.dev/api?username=guidm19&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guidm19)
+![](https://streak-stats.demolab.com/?user=guidm19&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=guidm19&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🏆 Certificações & Estudos:
+- AWS Academy Cloud Foundations
+- Web Academy UFAM
+- Cursos Alura (HTML, CSS, JavaScript, Linux e Git)
+- Formação Hacker - Udemy
+- Computação em Nuvem - CETAM
+
+---
+
+## 📈 Visitas no Perfil:
+[![](https://komarev.com/ghpvc/?username=guidm19&label=Visualizações&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+
+---
+✨ “A tecnologia move o mundo, e eu quero fazer parte dessa transformação.”
