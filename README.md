@@ -1,118 +1,99 @@
-# 👨🏻‍💻 Sobre Mim:
+# 👨🏻‍💻 Sobre Mim
 
-Olá! Me chamo Guilherme Mourão, sou estudante de Sistemas de Informação na FAMETRO e participante da Web Academy UFAM. Tenho interesse em desenvolvimento web full stack, desenvolvimento de interfaces modernas, versionamento com Git/GitHub, Linux e tecnologias voltadas para Inteligência Artificial.
+Olá! Me chamo **Guilherme Mourão** e sou Bacharel em Sistemas de Informação pela **FAMETRO**. Atualmente participo do programa **Web Academy UFAM**, onde continuo aprimorando meus conhecimentos em desenvolvimento de software e tecnologias modernas.
 
-Atualmente, estou aprimorando minhas habilidades em HTML, CSS, JavaScript, Bootstrap, Node.js, React, SQL, Docker, MySQL e Prisma ORM, buscando evoluir constantemente através de projetos, cursos e experiências práticas na área de tecnologia.
+Tenho interesse em **Desenvolvimento Web Full Stack**, Engenharia de Software, Banco de Dados, Docker, Linux e Inteligência Artificial. Gosto de aprender novas tecnologias e transformar conhecimento em projetos práticos, sempre buscando escrever código organizado, escalável e de fácil manutenção.
 
-Também possuo experiência com suporte técnico em TI, manutenção de computadores, sistemas operacionais Linux/Windows e ferramentas de produtividade e desenvolvimento. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente na área de tecnologia.
+Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Node.js, Express, React, SQL, MySQL, Prisma ORM, Docker, Git/GitHub** e desenvolvimento de APIs REST, além de estudar boas práticas de arquitetura de software e versionamento de aplicações.
 
----
-
-## 🚀 Objetivos:
-
-* Evoluir como Desenvolvedor Web Full Stack
-* Aprimorar conhecimentos em Tecnologia
-* Aprender mais sobre Cloud Computing e Inteligência Artificial
-* Contribuir em projetos open source
-* Desenvolver soluções criativas e escaláveis
+Também possuo experiência com suporte técnico em TI, manutenção de computadores, sistemas operacionais Linux e Windows, redes básicas e ferramentas utilizadas no desenvolvimento de software.
 
 ---
 
-## 🌐 Redes Sociais:
+# 🚀 Objetivos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/guilherme-mourão-587358242)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/guilherme197754)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/guidm19)
+* Atuar como Desenvolvedor Full Stack.
+* Construir aplicações web modernas e escaláveis.
+* Aprimorar conhecimentos em Engenharia de Software.
+* Estudar Cloud Computing e Inteligência Artificial.
+* Contribuir para projetos Open Source.
+* Evoluir continuamente por meio de projetos práticos e desafios tecnológicos.
 
 ---
 
-# 💻 Tecnologias & Ferramentas:
+# 💻 Tecnologias & Ferramentas
 
 ### 🎨 Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* TypeScript
+* React
 
-### ⚙️ Back-end & Banco de Dados
+### ⚙️ Back-end
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+* Node.js
+* Express.js
+* APIs REST
+* Prisma ORM
 
-### 🛠️ Ferramentas & Sistemas
+### 🗄️ Banco de Dados
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
-
-# 📚 Atualmente Estudando:
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-
----
-
-## 📖 Conhecimentos Adquiridos
-
-* Modelagem de Dados
-* Modelo Conceitual
+* MySQL
+* SQLite
+* SQL
+* Modelagem de Banco de Dados
 * Modelo Entidade-Relacionamento (ER)
 * Modelo Entidade-Relacionamento Estendido (EER)
-* Esquema Relacional
-* SQL Básico
-* SQLite
+
+### 🛠️ DevOps & Ferramentas
+
+* Docker
+* Git
+* GitHub
+* Linux
+* Visual Studio Code
+* npm
+
+---
+
+# 📚 Atualmente Estudando
+
+* React
+* TypeScript
+* Docker
+* Prisma ORM
+* Node.js
 * MySQL
-* Docker e Containers
-* Git e GitHub
-* Linux para Desenvolvimento
-* Banco de Dados Relacionais
+* GitHub Actions
+* Arquitetura de Software
+* Boas práticas de desenvolvimento
 
 ---
 
-# 📊 Estatísticas GitHub:
+# 🏆 Certificações & Formação
 
-![](https://github-readme-stats.shion.dev/api?username=guidm19\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=guidm19\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=guidm19\&theme=tokyonight\&hide_border=true\&layout=compact)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guidm19/guidm19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guidm19/guidm19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guidm19/guidm19/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🏆 Certificações & Estudos:
-
+* Bacharel em Sistemas de Informação — FAMETRO
 * Web Academy UFAM
 * AWS Academy Cloud Foundations
-* Cursos Alura (HTML, CSS, JavaScript, Linux, Git, SQL e Banco de Dados)
-* Formação Hacker - Udemy
-* Computação em Nuvem - CETAM
+* Formação Hacker — Udemy
+* Computação em Nuvem — CETAM
+* Cursos Alura (HTML, CSS, JavaScript, Git, Linux, SQL e Banco de Dados)
 
 ---
 
-## 📈 Visitas no Perfil:
+# 🎯 Interesses
 
-[![](https://komarev.com/ghpvc/?username=guidm19\&label=Visualizações\&color=0e75b6\&style=flat)](https://visitcount.itsvg.in)
+* Desenvolvimento Web Full Stack
+* Engenharia de Software
+* APIs REST
+* Docker e Containers
+* Banco de Dados
+* Cloud Computing
+* Inteligência Artificial
 
 ---
 
-✨ "A tecnologia move o mundo, e eu quero fazer parte dessa transformação."
+✨ *"A tecnologia evolui todos os dias, e meu objetivo é evoluir junto com ela, criando soluções que gerem impacto e aprendizado contínuo."*
